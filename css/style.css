@@ -441,3 +441,129 @@ h3{
     font-weight:600;
     font-family: 'Montserrat', Arial, 'sans-serif';
 }
+.eight_div{
+    width: 100%;
+    margin: auto;
+    padding: 105px 0px;
+}
+.div_eight{
+    width: 80%;
+    margin: auto;
+    padding: 0px 0px 48px 0px;
+}
+.eight_h2{
+    margin: 0px 0px 8px 0px;
+    font-size: 30px;
+    font-weight: 800;
+    font-family: 'Montserrat', Arial, 'sans-serif';
+    color: black;
+    text-align: center;
+}
+.div_eight1{
+    width: 80%;
+    margin: auto;
+    padding: 0px 15px;
+}
+.eight_divs_txt{
+    width: 100%;
+    margin: auto;
+    padding: 20px 0px 30px 0px;
+}
+.left{
+    width: 100%;
+    margin: auto;
+    overflow: auto;
+}
+.fa-quote-left{
+    width: 33.33%;
+    color: #207DFF;
+    font-size: 30px;
+    padding: 0px;
+    float: left;
+    text-align: center;
+}
+.profile1{
+    width: 100%;
+    margin: auto;
+    overflow: auto;
+}
+.pro_text{
+    width: 33.33%;
+    margin: auto;
+    overflow: auto;
+    padding: 30px 20px;
+    float: left;
+}
+.pro_img{
+    width: 25%;
+    margin: auto;
+    float: left;
+}
+.profile{
+   width: 80px;
+   height: 80px;
+   border-radius: 50%;
+}
+.pro_int{
+    width: 75%;
+    margin: auto;
+    float: left;
+    padding: 0px 0px 0px 24px;
+}
+.star{
+    margin: 0px;
+    text-align: left;
+    margin: 0px 0px 16px 0px;
+}
+.fa-star{
+    color: gold;
+    font-size: 15px;
+    padding: 0px;
+}
+.pro_p{
+    color: #808080;
+    font-size: 15px;
+    line-height: 27px;
+    margin: 0px 0px 16px 0px;
+    font-weight: 400;
+    font-family: 'Montserrat', Arial, 'sans-serif';
+}
+.name{
+    color: black;
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Montserrat', Arial, 'sans-serif';
+}
+.position{
+    color: #808080;
+    font-size: 15px;
+    font-weight: 400;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Montserrat', Arial, 'sans-serif';
+}
+.nine_div{
+    width: 100%;
+    margin: auto;
+    padding: 105px 0px;
+}
+.div_nine{
+    width: 100%;
+    margin: auto;
+    padding: 0px 24px;
+    overflow: auto;
+}
+.nine_img1{
+    width: 25%;
+    margin: auto;
+    float: left;
+}
+.img1_nine{
+    width: 100%;
+    height: 270px;
+    border-radius: 5px;
+    padding: 0px 15px;
+    margin-bottom: 15px;
+}
