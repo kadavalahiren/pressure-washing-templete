@@ -19,7 +19,7 @@ body {
 }
 
 .div_first {
-    width: 80%;
+    width: 85%;
     margin: auto;
 }
 
@@ -40,8 +40,10 @@ body {
 
 .txt {
     color: #fff;
-    font-size: 15px;
     display: inline-block;
+    font-weight: 100;
+    font-size: 12px;
+    font-family: 'montserrat', 'Arial', sans-serif;
     font-weight: 100;
 }
 
@@ -51,7 +53,7 @@ body {
 }
 
 .div_sec {
-    width: 80%;
+    width: 85%;
     margin: auto;
     padding: 0px 15px;
     overflow: auto;
@@ -66,13 +68,21 @@ body {
 .logo {
     font-size: 28px;
     font-weight: 800;
+    color: black;
     font-family: 'Montserrat', Arial, 'sans-serif';
 }
 
 .fab,.fas{
     color:white;
-    font-size: 15px;
-    padding: 10px;
+    font-size: 14px;
+    padding: 8px;
+    font-family: 'Montserrat', Arial, 'sans-serif';
+}
+.far{
+    color:white;
+    font-size: 12px;
+    padding: 5px;
+    font-family: 'Montserrat', Arial, 'sans-serif';
 }
 span {
     color: #207dff;
@@ -84,31 +94,56 @@ span {
 }
 
 ul {
-    display: block;
+    width: 100%;
+    display: inline-block;
     margin: 0px;
     padding: 0px;
     text-align: right;
+    font-size: 14px;
+    font-weight: 700;
 }
 
 li {
+    width: 100px;
     display: inline-block;
-    margin: 0px;
+    margin: auto;
+    text-align: center;
     padding: 36px 18px;
     font-weight: 700;
     font-size: 14px;
     font-family: 'Montserrat', Arial, 'sans-serif';
 }
+.menus{
+    display: inline-block;
+    color: #207dff;
+    font-size:14px;
+    font-family: 'Montserrat', Arial, 'sans-serif';
+}
+.bg{
+    width: 100%;
+    background-color: #ffd31d;
+    position: relative;
+    bottom: -35px;
+   text-align: center;
+    height: 5px;
+}
+.menu{
+    display: inline-block;
+    color: black;
+    font-size:14px;
+    font-family: 'Montserrat', Arial, 'sans-serif';
+}
 .third_div{
     width: 100%;
     height: 100%;
-    margin: auto;
     background-image: url(../image/bg_1.jpg);
-    background-position: center;
+    background-position: top;
+    
     background-size: cover;
     background-attachment: fixed;
 }
 .div_third{
-    width: 80%;
+    width: 85%;
     height: 100%;
     margin: auto;
 }
